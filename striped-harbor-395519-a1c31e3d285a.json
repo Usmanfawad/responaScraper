@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "striped-harbor-395519",
+  "private_key_id": "a1c31e3d285a3a42c84b123961d10968b89b5366",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2WE4XFvyZMP2i\nAmQZ7r9ovfzqp4jybnRZN4V3g2NebkbPsw+X7naW0y6UktZ2k+5jIAn2jcnnP4Ea\nKCHZtnBZvaE/xsncxoRuq2Eo8DudnlsLsADJ7jgmIRLlPzU8FR6v/CNzJ7zOyAyP\n9wZLjKipZVP5u5ocIZJ52rgh1PyFUDzUB5MmzB37/zOxjzP+Vrf0sdhkPZQAkVB8\nKOj6YrcpPWy0GkBP2L4pvCSxK6EMz4QqBcXBWxxAJGAg2xF9hswl386qVcUh3BsT\nlMziSZppmtgGFInEoWE5z/ccIH/27RAA5G2OZENKlNA9W24lwew9Lx66ZBLiBmiN\nP3P/E0elAgMBAAECggEAD91i/fNMCvAOQThACVmSYcSV6ryk16LwkIqaHCncTWz+\n0DdeFfPzcW/yT47vBeYdCZbSBxeTB4Go8+Ol/lE3OTecffYHviOvhgl3LJ6qMS6D\n8WJgzzDgxcB+6l8zfITB5MHlO7GrZbpWDXiKnawhSIu+YK4H3Ia3Pc7f0mG7jsWk\nybwvCOLqiGZAc+l+V7JG8ccQK9GjVuKsDJBMrC1nBYeMoa8q6bUUR8+c9ekb0EOi\n2j9wVMyfjy4oy1lB6A34C99uRxhojxDtto8kSEJUFEklR31TO5wGO43zQ7byBiA6\n1h/OJBb4CPg5E0Bc7xTkF1duT+hNR1OMd0WiNK1tgQKBgQDdX4M52iTKUB8yAV7d\nTn5detmhCAIxX+bcdl5SigDmlcu+gD1LZPR4DCbvgxuvqtqP94gV19SHNwpsbOsY\nVF9dp4MxkyU9UDVcW5aHKyytSguhT7myR2hc9uZby1WJA6C00uwr0Rpr6WsS6wde\nRY5EiLXFUcWgImIb3xBviKt5UQKBgQDS3fruTs+UiF8dhEhNS4S6MWGaF9F3nZzD\nQSEAu4kXHIhNFLbEkdE9Aal3YPjJ5uASX3bWPj9cNJLng1tmM05ls3Pz/JR8WVoG\n2HW/xVzX/ozmDLVpF25FYVga7TPxyLmXUzR++6UQwpOxfhUy1Ila1OkoO1XulwSo\nJIbEyQgUFQKBgQCirFBDD/FfFfeGiIlMeSTUzrTj532tCLseIIF5h93XlBYvfA8O\nuzYGjW+DK8YJlbScfJps6rhLUIABYxxzOXUG3lTC9k00PB+qKcd4tppTEQlw1aQw\nxNaFEg3/QHEviRHsLt7L6BHRYKqFMV6twNElvYxNXqSp4vpTXty2CSlwsQKBgBoQ\nsGTmvwgIN2GpqVpMnHJ7iioHCbB0fh0wnsi9ZbvCniKRDeqMb8XPv8fu57HlZQtA\nW6st9J0MLqCJfzHJ48X0gb/GGACq9tLjzOJQniJg57/EEGSWLd5Lox1o9sPLYQ2Q\njmun5YaF1sXY5Pvsg7IDoXKEqyGb70ptgW8vvlzlAoGBAJZig839EmKoFbFiNcZ9\nSnuwGRSrdDvTkh5idyX83rFvt9B6Np+zAfbH0Aq8K415ZpxadJaqsM3qm6GQ0QJg\n+YTPaWnpRVymMFvQyEfVLc5leceimQxYrj4sd9j7kDtqTfGVmI6H7VquSywkf/IZ\nuSxUYABUokdBrlzCpEdpTzKK\n-----END PRIVATE KEY-----\n",
+  "client_email": "usman-676@striped-harbor-395519.iam.gserviceaccount.com",
+  "client_id": "102922358843968029938",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/usman-676%40striped-harbor-395519.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
