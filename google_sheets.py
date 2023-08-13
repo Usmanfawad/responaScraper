@@ -14,9 +14,7 @@ class GoogleSheets:
             service_account = gspread.service_account(filename='striped-harbor-395519-a1c31e3d285a.json')
             sheet = service_account.open('Headers')
             worksheet = sheet.worksheet('Sheet2')
-            print("------ Inserting into Excel ------")
-            print('Row count: ', worksheet.row_count)
-            print('Col count: ', worksheet.col_count)
+            print("\n\n------ Inserting into Excel ------\n\n")
             worksheet.append_row(self.row_lst)
 
             return True
